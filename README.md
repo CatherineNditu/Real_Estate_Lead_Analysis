@@ -159,6 +159,3 @@ No timestamp history for multi-stage follow-ups.
 If you're interested in SQL, data analysis, or real estate, let's connect! Drop any questions, tips, or suggestions in the comments.
 
 ---
-
-
-
